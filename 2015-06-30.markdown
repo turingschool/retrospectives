@@ -131,7 +131,7 @@ look towards 2016?
 |           |   	   |        |        |            |    	   |             |
 | W4 - 7/27	| MD, JC | JM, MD | AI, JT | SK, JC, AI	| RW, HW | Austen (AI) |
 |           |   	   |        |        |            |    	   |             |
-| W5 - 8/3 	| MD, JC | JM, MD | **, JT | SK, JC, **	| RW, HW |   	         |
+| W5 - 8/3 	| MD, JC | JM, MD | **, JT | SK, JC, **	| RW, HW | (Need 1)    |
 |           |   	   |        |        |            |    	   |             |
 | W6 - 8/10	| MD, JC | JM, MD | HW, JT | SK, JC, BO	| RW   	 | Ben (BO)    |
 |           |   	   |        |        |            |   	   |        	   |
