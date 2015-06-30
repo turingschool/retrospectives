@@ -55,7 +55,24 @@ Then, on the other side:
 
 #### Rethinking Spirals and Scope/Sequence
 
+* Critical look: are we spiraling or are we building incrementally?
+* What are grads succeeding with, and where are they weak?
+* Is there value in those weak skills?
+* What are the high-level topics that should be persistent across multiple modules?
+* What are the smaller topics that can be present in only one module?
+* Are there any threads we can take out?
+* Any threads obviously missing?
+* Can we get serious about some high-level standards for each module?
+
 #### Lesson Planning: What Works, What Doesn't, and Why?
+
+* What lesson types are we currently using?
+* What's the distribution? Is that right?
+* For lesson types that are over-represented, why do we do things that way?
+* For lesson types that are under-represented, why don't we do them more often?
+* What does our planning cycle currently look like?
+* What common weaknesses do we see in our lessons or planning?
+* What's a realistic path towards more robust lesson development?
 
 ### Grab Bag
 
@@ -64,6 +81,10 @@ In the fantasy land where we finish the above topics early, here are some others
 * 1505 really struggled in Module 1. Why? Was it avoidable? How do we improve for 1507?
 * How do we cut down on the first week dropouts? It seems that people don't take us seriously when we talk about the
 work load / work week. How do we fix that?
+* After Rachel comes back from Nevada and Steve is back from paternity leave, what happens with 1511 and beyond? Can
+we hit a work load / pace that feels long-run sustainable? What are our staffing needs/wants as we finish the year and
+look towards 2016?
+* How can we better target student recruitment to bring in the underrepresented people we want to see in the program?
 
 ## Attendees
 
