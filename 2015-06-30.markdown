@@ -70,6 +70,10 @@ Then, on the other side:
 * Are there any threads we can take out?
 * Any threads obviously missing?
 * Can we get serious about some high-level standards for each module?
+* Modules 3 and 4 -- How do we want to balance the pull toward more sophisticated / production-oriented
+  web app topics with the pull toward a more fundamental / ground-up approach toward javascript (a la module 1's approach to ruby)?
+* Module 4 -- How do we balance the pull toward more sophisticated, resume-polishing JS tools and frameworks
+  with the pull toward stronger JS composition and abstraction fundamentals?
 
 #### Lesson Planning: What Works, What Doesn't, and Why?
 
@@ -80,6 +84,9 @@ Then, on the other side:
 * What does our planning cycle currently look like?
 * What common weaknesses do we see in our lessons or planning?
 * What's a realistic path towards more robust lesson development?
+* Horace: I have heard a few student requests for more "lecture/conceptual" lessons and more
+  "hands-on/code-along" (independent) exercises. Do we think this structure is good? What does
+  it take / look like to structure lessons more in this way?
 
 ### Grab Bag
 
@@ -118,14 +125,14 @@ look towards 2016?
 |   			|   	|   	|   	|   	|   	|   	|
 |  W5 - 8/3 	|   	|   	|   	|   	|RW, HW	|   	|
 |   			|   	|   	|   	|   	|   	|   	|
-|  W6 - 8/10	|   	|   	|   	|   	|RW   	|   	|
+|  W6 - 8/10	|   	|   	|   	|   	|RW   	|Ben   	|
 |   			|   	|   	|   	|   	|   	|   	|
 
 #### August-October Module
 
 |  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|  Guests	|
 |---			|---	|---	|---	|---	|---	|---	    |
-|  W1 - 8/24    |   	|   	|   	|   	|SK, RW	|Dave V   	|
+|  W1 - 8/24    |   	|   	|   	|   	|SK, RW	|Dave V, Brittany   	|
 |   			|   	|   	|   	|   	|   	|   	|
 |  W2 - 8/31	|   	|   	|   	|   	|SK, RW	|   	|
 |   			|   	|   	|   	|   	|   	|   	|
@@ -148,6 +155,9 @@ look towards 2016?
 * Laura Steadman?
 * Blithe Rocher
 * Robert Pitts
+* Brittany Storoz
+* Corrine Warnshuis
+* Sam Selikoff
 
 Other folks: https://twitter.com/j3/status/614414458840989696
 
