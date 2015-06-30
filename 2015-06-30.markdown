@@ -121,37 +121,37 @@ look towards 2016?
 
 #### July-August Module
 
-|  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|  Guests	|
-|---			|---	|---	|---	|---	|---	|---	    |
-|  W1 - 7/6     |   	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W2 - 7/13	|   	|   	|   	|   	|JC* 	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W3 - 7/20	|   	|   	|   	|   	|   	|Ernie 	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W4 - 7/27	|   	|   	|   	|   	|RW, HW	|Austen |
-|   			|   	|   	|   	|   	|   	|   	|
-|  W5 - 8/3 	|   	|   	|   	|   	|RW, HW	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W6 - 8/10	|   	|   	|   	|   	|RW   	|Ben   	|
-|   			|   	|   	|   	|   	|   	|   	|
+| Week			| M1	   | M2	    | M3	   | M4	        | Out    | Guests      |
+|---			  |---	   |---	    |---	   |---	        |---	   |---	         |
+| W1 - 7/6  | MD, JC | JM, RW | HW, JT | SK, JC, MD	|   	   |             |
+|           |        |        |        |  	        |   	   |   	         |
+| W2 - 7/13	| MD, JC | JM, RW | HW, JT | SK, JC, MD	| JC, JT |    	       |
+|           |        |        |        |            |    	   |   	         |
+| W3 - 7/20	| MD, JC | JM, RW | HW, JT | SK, JC, MD	|    	   | Ernie       |
+|           |   	   |        |        |            |    	   |             |
+| W4 - 7/27	| MD, JC | JM, MD | AI, JT | SK, JC, AI	| RW, HW | Austen (AI) |
+|           |   	   |        |        |            |    	   |             |
+| W5 - 8/3 	| MD, JC | JM, MD | **, JT | SK, JC, **	| RW, HW |   	         |
+|           |   	   |        |        |            |    	   |             |
+| W6 - 8/10	| MD, JC | JM, MD | HW, JT | SK, JC, BO	| RW   	 | Ben (BO)    |
+|           |   	   |        |        |            |   	   |        	   ||
 
 #### August-October Module
 
-|  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|  Guests	|
-|---			|---	|---	|---	|---	|---	|---	    |
-|  W1 - 8/24    |   	|   	|   	|   	|SK, RW	|Dave V, Brittany   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W2 - 8/31	|   	|   	|   	|   	|SK, RW	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W3 - 9/7 	|   	|   	|   	|   	|SK, RW	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W4 - 9/14	|   	|   	|   	|   	|SK, RW	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W5 - 9/21	|   	|   	|   	|   	|SK, RW	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
-|  W6 - 9/28	|   	|   	|   	|   	|SK, RW	|   	|
-|   			|   	|   	|   	|   	|   	|   	|
+| Week			 | M1	     | M2	    | M3	   | M4	    | Out    | Guests         |
+|---			   |---	     |---	    |---	   |---	    |---     |---             |
+| W1 - 8/24  | JCh, JT | JM, MD | HW, MD | JC, ** | RW, SK | Dave, Britanny |
+|            |         |        |        |        |        |                |
+| W2 - 8/31	 | JCh, JT | JM, MD | HW, MD | JC, ** | RW, SK |                |
+|            |         |        |        |        |        |                |
+| W3 - 9/7	 | JCh, JT | JM, MD | HW, MD | JC, ** | RW, SK |                |
+|            |         |        |        |        |        |                |
+| W4 - 9/14	 | JCh, JT | JM, MD | AI, MD | JC, ** | RW, SK |                |
+|            |         |        |        |        |        |                |
+| W5 - 9/21  | JCh, JT | JM, MD | **, MD | JC, ** | RW, SK |                |
+|            |         |        |        |        |        |                |
+| W6 - 9/28  | JCh, JT | JM, MD | HW, MD | JC, ** | RW, SK |                |
+|            |         |        |        |        |        |                ||
 
 #### Possible Guest Instructors
 
