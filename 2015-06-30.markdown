@@ -6,9 +6,56 @@
 * 10:00 - Organizing communication and meetings
 * 11:00 - Student empowerment
 * 12:00 - Lunch
-* 1:00 - Prep work and post work
+* 1:00 - Prep Work and Post Work
 * 2:00 - Rethinking Spirals and Scope/Sequence across modules
 * 3:00 - Lesson planning: what's working, what's not, and why?
+
+### Descriptions
+
+#### Week-by-Week Staffing Plans
+
+Let's build a matrix with each of the weeks for the next two modules matched with the four content areas, fill in the
+known staff absences, fill in known visitors, and find the weak spots.
+
+#### Organizing Communication and Meetings
+
+We have a lot of communication happening. Can we get it more organized and rational? Some goal interactions:
+
+* Operations team (Jorge, Raissa, Daisha, Marissa) - weekly
+* Directors team (Jeff, Rachel, Steve, Jorge) - weekly
+* Academic team (Rachel, Steve, Horace, Josh M, Mike, Jorge, Jeff) - weekly? biweekly?
+* Jobs team (Jeff, Marissa) - weekly
+* Operations 1-on-1s (Jorge with each of Raissa, Daisha, Marissa) - biweekly
+* Academic 1-on-1s (Steve/Rachel with each of Horace, Josh M, Mike, Jorge, Jeff?) - twice per module?
+* Jeff 1-on-1s (Jeff with each of Rachel, Steve, Horace, Josh M, Mike, Jorge, Raissa, Daisha, Marissa) - twice per module?
+
+6 + 6 + 3 + 6 + 9 + 10 + 18 = 58 meetings ?!?
+
+#### Student Empowerment
+
+* There are over 100 alumni
+* There are over 80 active students
+* There are only 10 of us
+* How do we put them to work to (a) increase student value and (b) lighten our load?
+
+#### Prep Work and Post Work
+
+* Discuss the Prag Studio plusses and minuses
+* Review the Tealeaf Academy plan
+* Review the current twice-weekly Q&A sessions
+* Can we get tougher on prep work now that we have a waiting list?
+* What could better prep mean for module 1?
+
+Then, on the other side:
+
+* The free-space problem after graduation
+* Can post-work support the prep-work?
+* What about continued async academic classes? JS Frameworks?
+* What about a "policy" for sitting in on classes?
+
+#### Rethinking Spirals and Scope/Sequence
+
+#### Lesson Planning: What Works, What Doesn't, and Why?
 
 ### Grab Bag
 
@@ -27,23 +74,29 @@ work load / work week. How do we fix that?
 ### Week-by-Week Staffing
 
 * facilitated by Jeff
+* notes by Jorge
 
 ### Organizing Communication and Meetings
 
 * facilitated by Raissa
+* notes by Horace
 
 ### Student Empowerment
 
 * facilitated by Daisha
+* notes by Marissa
 
 ### Prep Work and Post Work
 
 * facilitated by Mike
+* notes by Josh Mejia
 
 ### Rethinking Spirals and Scope/Sequence Across Modules
 
 * facilitated by Steve
+* notes by Jeff
 
 ### Lesson Planning: What's Working, What's Not, and Why?
 
 * facilitated by Horace
+* notes by Steve
