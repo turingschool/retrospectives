@@ -106,37 +106,50 @@ look towards 2016?
 
 #### July-August Module
 
-|  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|
-|---			|---	|---	|---	|---	|---	|
-|  W1 - 7/6     |   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W2 - 7/13	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W3 - 7/20	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W4 - 7/27	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W5 - 8/3 	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W6 - 8/10	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
+|  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|  Guests	|
+|---			|---	|---	|---	|---	|---	|---	    |
+|  W1 - 7/6     |   	|   	|   	|   	|   	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W2 - 7/13	|   	|   	|   	|   	|JC* 	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W3 - 7/20	|   	|   	|   	|   	|   	|Ernie 	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W4 - 7/27	|   	|   	|   	|   	|RW, HW	|Austen |
+|   			|   	|   	|   	|   	|   	|   	|
+|  W5 - 8/3 	|   	|   	|   	|   	|RW, HW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W6 - 8/10	|   	|   	|   	|   	|RW   	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
 
 #### August-October Module
 
-|  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|
-|---			|---	|---	|---	|---	|---	|
-|  W1 - 7/6     |   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W2 - 7/13	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W3 - 7/20	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W4 - 7/27	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W5 - 8/3 	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
-|  W6 - 8/10	|   	|   	|   	|   	|   	|
-|   			|   	|   	|   	|   	|   	|
+|  Week			|  M1	|  M2	|  M3	|  M4	|  Out	|  Guests	|
+|---			|---	|---	|---	|---	|---	|---	    |
+|  W1 - 8/24    |   	|   	|   	|   	|SK, RW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W2 - 8/31	|   	|   	|   	|   	|SK, RW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W3 - 9/7 	|   	|   	|   	|   	|SK, RW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W4 - 9/14	|   	|   	|   	|   	|SK, RW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W5 - 9/21	|   	|   	|   	|   	|SK, RW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+|  W6 - 9/28	|   	|   	|   	|   	|SK, RW	|   	|
+|   			|   	|   	|   	|   	|   	|   	|
+
+#### Possible Guest Instructors
+
+* Sean Griffin
+* Nathan Hessler
+* Teo Ljungberg
+* Sam Phippen
+* Josh Wehner
+* Laura Steadman?
+* Blithe Rocher
+* Robert Pitts
+
+Other folks: https://twitter.com/j3/status/614414458840989696
 
 ### Organizing Communication and Meetings
 
