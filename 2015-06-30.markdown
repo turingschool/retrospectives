@@ -171,8 +171,18 @@ Other folks: https://twitter.com/j3/status/614414458840989696
 
 ### Organizing Communication and Meetings
 
-* facilitated by Raissa
-* notes by Horace
+#### Recurring Meetings -- Notes
+
+* Operations team (Jorge, Raissa, Daisha, Marissa) - Weekly Mondays -- group at lunch; 1-on-1's from 3 - 4
+* Directors team (Jeff, Rachel, Steve, Jorge) - Weekly Thursdays, 8 - 8:30 AM
+* Academic team (Rachel, Steve, Horace, Josh M, Mike, Jorge, Jeff) - Weekly Wednesdays 4 - 5 lesson planning workshop
+* Jobs team (Jeff, Marissa) - Weekly Tuesdays 8 AM
+* Academic 1-on-1s (Steve/Rachel with each of Horace, Josh M, Mike, Jorge, Jeff?) - HW, JM, JT, MD - Weekly Tuesday & Wednesday Lunch
+* Jeff 1-on-1s (Jeff with each of Rachel, Steve, Horace, Josh M, Mike, Jorge, Raissa, Daisha, Marissa) - MTW Lunch
+
+* [X] Horace to set up a calendar with all the meetings (Turing Recurring Meetings google calendar)
+* [X] Add recurring events
+* [X] Invite people to appropriate events
 
 ### Student Empowerment
 
