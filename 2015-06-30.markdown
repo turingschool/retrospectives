@@ -125,7 +125,7 @@ look towards 2016?
 |---			  |---	   |---	    |---	   |---	        |---	   |---	         |
 | W1 - 7/6  | MD, JC | JM, RW | HW, JT | SK, JC, MD	|   	   |             |
 |           |        |        |        |  	        |   	   |   	         |
-| W2 - 7/13	| MD, JC | JM, RW | HW, JT | SK, JC, MD	| JC, JT |    	       |
+| W2 - 7/13	| MD, JC | JM, RW | HW, JT | SK, JC, MD	| JT     |    	       |
 |           |        |        |        |            |    	   |   	         |
 | W3 - 7/20	| MD, JC | JM, RW | HW, JT | SK, JC, MD	|    	   | Ernie       |
 |           |   	   |        |        |            |    	   |             |
@@ -134,7 +134,7 @@ look towards 2016?
 | W5 - 8/3 	| MD, JC | JM, MD | **, JT | SK, JC, **	| RW, HW |   	         |
 |           |   	   |        |        |            |    	   |             |
 | W6 - 8/10	| MD, JC | JM, MD | HW, JT | SK, JC, BO	| RW   	 | Ben (BO)    |
-|           |   	   |        |        |            |   	   |        	   ||
+|           |   	   |        |        |            |   	   |        	   |
 
 #### August-October Inning
 
